@@ -1,0 +1,9 @@
+#Automatically generated header file. Editing this file may cause problems.
+#Wed Dec 14 18:55:18 COT 2016
+serverVersion=2.5.9
+dexState=NO_CHANGE
+package=com.example.michis.sliderreview
+version=4
+serverVersionCode=70
+dexManagerName=ExtractFromApkDexManager
+appTheme=@style/AppTheme
